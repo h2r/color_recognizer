@@ -1,0 +1,9 @@
+"purple","green","blue","pink","brown","red","light blue","teal","orange","light green","magenta","yellow","sky blue","grey","lime green","light purple","violet","dark green","turquoise","lavender","dark blue","tan","cyan","aqua","forest green","mauve","dark purple","bright green","maroon","olive","salmon","beige","royal blue","navy blue","lilac","black","hot pink","light brown","pale green","peach","olive green","dark pink","periwinkle","sea green","lime","indigo","mustard","light pink","rose","bright blue","neon green","white"
+ colour red 
+126, 21, 3, 255, 101, 229, 149, 2, 249, 150, 194, 255, 117, 146, 137, 191, 154, 3, 6, 199, 0, 209, 0, 19, 6, 174, 53, 1, 101, 110, 255, 230, 5, 0, 206, 0, 255, 173, 199, 255, 103, 203, 142, 83, 170, 56, 206, 255, 207, 1, 12, 255
+ red green 
+30, 176, 67, 129, 55, 0, 208, 147, 115, 249, 0, 255, 187, 149, 254, 119, 14, 53, 194, 159, 3, 178, 255, 234, 71, 113, 6, 255, 0, 117, 121, 218, 4, 17, 162, 0, 2, 129, 253, 176, 122, 65, 130, 252, 255, 2, 179, 209, 98, 101, 255, 255 
+ green blue 
+156, 26, 223, 192, 0, 0, 252, 134, 6, 123, 120, 20, 253, 145, 5, 246, 234, 0, 172, 239, 91, 111, 255, 201, 12, 129, 62, 7, 33, 14, 108, 166, 170, 70, 253, 0, 141, 80, 181, 124, 4, 107, 254, 161, 50, 130, 1, 223, 117, 252, 12, 255
+
+52 colours

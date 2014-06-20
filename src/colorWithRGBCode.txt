@@ -1,0 +1,203 @@
+purple
+(#7e1e9c)
+ 
+ 
+green
+(#15b01a)
+ 
+ 
+blue
+(#0343df)
+ 
+ 
+pink
+(#ff81c0)
+ 
+ 
+brown
+(#653700)
+ 
+ 
+red
+(#e50000)
+ 
+ 
+light blue
+(#95d0fc)
+ 
+ 
+teal
+(#029386)
+ 
+ 
+orange
+(#f97306)
+ 
+ 
+light green
+(#96f97b)
+ 
+ 
+magenta
+(#c20078)
+ 
+ 
+yellow
+(#ffff14)
+ 
+ 
+sky blue
+(#75bbfd)
+ 
+ 
+grey
+(#929591)
+ 
+ 
+lime green
+(#89fe05)
+ 
+ 
+light purple
+(#bf77f6)
+ 
+ 
+violet
+(#9a0eea)
+ 
+ 
+dark green
+(#033500)
+ 
+ 
+turquoise
+(#06c2ac)
+ 
+ 
+lavender
+(#c79fef)
+ 
+ 
+dark blue
+(#00035b)
+ 
+ 
+tan
+(#d1b26f)
+ 
+ 
+cyan
+(#00ffff)
+ 
+ 
+aqua
+(#13eac9)
+ 
+ 
+forest green
+(#06470c)
+ 
+ 
+mauve
+(#ae7181)
+ 
+ 
+dark purple
+(#35063e)
+ 
+ 
+bright green
+(#01ff07)
+ 
+ 
+maroon
+(#650021)
+ 
+ 
+olive
+(#6e750e)
+ 
+ 
+salmon
+(#ff796c)
+ 
+ 
+beige
+(#e6daa6)
+ 
+ 
+royal blue
+(#0504aa)
+ 
+ 
+navy blue
+(#001146)
+ 
+ 
+lilac
+(#cea2fd)
+ 
+ 
+black
+(#000000)
+ 
+ 
+hot pink
+(#ff028d)
+ 
+ 
+light brown
+(#ad8150)
+ 
+ 
+pale green
+(#c7fdb5)
+ 
+ 
+peach
+(#ffb07c)
+ 
+ 
+olive green
+(#677a04)
+ 
+ 
+dark pink
+(#cb416b)
+ 
+ 
+periwinkle
+(#8e82fe)
+ 
+ 
+sea green
+(#53fca1)
+ 
+ 
+lime
+(#aaff32)
+ 
+ 
+indigo
+(#380282)
+ 
+ 
+mustard
+(#ceb301)
+ 
+ 
+light pink
+(#ffd1df)
+ 
+ 
+rose
+(#cf6275)
+ 
+ 
+bright blue
+(#0165fc)
+ 
+ 
+neon green
+(#0cff0c)
+ 
